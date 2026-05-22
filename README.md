@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Header -->
 <h1 align="center">Hi, I'm Muhammad Bilal Azhar 👋</h1>
 <p align="center">
